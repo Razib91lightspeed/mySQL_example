@@ -15,10 +15,7 @@ public class BasicSqlExample {
     /**
      * A simple sql api example, to demonstrate accessing a table (or view) in the local system.
      *
-     * Note that we assume that the database examples exists, with the schema scompany, and table
-     * or view emp_address. Also, we assume that the role User123_4 exists, with appropriately granted
-     * access to the table or view. Also, the appropriate external library jdbc driver library is needed
-     * (e.g. postgresql-42.2.12.jar).
+     *
      *
      * @param args Command-line arguments (not used).
      */
